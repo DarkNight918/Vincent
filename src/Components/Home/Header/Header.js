@@ -25,7 +25,7 @@ const Header = () => {
                 <div className="row">
                   <div className="col-md-7 col-xs-12">
                     <div className="info-wrap">
-                      <h1 className="header-font">Vincent Newman</h1>
+                      <h1 className="header-font">Hardy Wilkinson</h1>
                       <div className="header-font2 mt-20">
                         <Typewriter
                           options={{
@@ -38,7 +38,7 @@ const Header = () => {
                       <br />
 
                       <div className="buttons">
-                        <a href={Resume} download="Vincent_Resume">
+                        <a href={Resume} download="Hardy_Resume">
                           <Button className="btn-hover color-2">
                             <FontAwesomeIcon icon={faEye} /> Download CV
                           </Button>
@@ -54,8 +54,8 @@ const Header = () => {
                           <h5>Freelance</h5>
                         </div>
                         <div className="col-lg-8">
-                          <h5>11942 Hillbrook Dr, Houston, Texas, US</h5>
-                          <h5>vincent.newman918@gmail.com</h5>
+                          <h5>111 Somerset Rd, Singapore</h5>
+                          <h5>hardy.man918@gmail.com</h5>
                           <h5>+1 213 985 0522</h5>
                           <h5>Available</h5>
                         </div>
