@@ -28,7 +28,7 @@ const Footer = () => {
           <div className="footer-box col-md-4 col-sm-6">
             <h3 className="service-font1">ABOUT ME</h3>
             <p>
-              I'm a full-stack engineer with 7 years specializing in web and
+              I'm a full-stack engineer with 8 years specializing in web and
               mobile development, learning all aspects of the language from
               prototype inheritance, closure, modern & classic architecture
               design patterns, and performance improvements.
@@ -55,7 +55,7 @@ const Footer = () => {
 
             <div className="contact-icon d-flex align-items-center mb-4">
               <FontAwesomeIcon icon={faHome} />
-              <span> 111 Somerset Rd, Singapore</span>
+              <span> Hillbrook Dr, Houston, Texas, US</span>
             </div>
 
             <div className="contact-icon d-flex align-items-center mb-4">
