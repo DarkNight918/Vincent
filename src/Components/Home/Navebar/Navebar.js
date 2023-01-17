@@ -40,7 +40,7 @@ const Navebar = () => {
                     height="40"
                     className="d-inline-block align-top"
                 />{' '}
-                <strong>Hardy's Portfolio</strong>
+                <strong>Vincent's Portfolio</strong>
             </Navbar.Brand>
 
             <Navbar.Toggle onClick={() => setCollapsed(!isCollapsed ? 'show' : null)} aria-controls="responsive-navbar-nav" />

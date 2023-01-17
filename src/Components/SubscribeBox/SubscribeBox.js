@@ -22,14 +22,14 @@ const SubscribeBox = () => {
 
                         <h2 className="service-font1">CONTACT NOW</h2>
                         <p>Call Me : +1 213 985 0522</p>
-                        <p>Email Me : hardy.man918@gmail.com</p>
+                        <p>Email Me : vincent.newman918@gmail.com</p>
 
                     </div>
 
                     <div className="sub-box-single col-md-4 pb-4">
                         <h2 className="service-font1">FOLLOW ME</h2>
                         <div className="sub-fllow-icon">
-                            <a href="https://www.linkedin.com/in/hardy-wilkinson-853750258/"><FontAwesomeIcon icon={faLinkedinIn}/></a>
+                            <a href="https://www.linkedin.com/in/vincent-newman-7b8422261/"><FontAwesomeIcon icon={faLinkedinIn}/></a>
                             <a href="https://github.com/DarkNight918"><FontAwesomeIcon icon={faGithub}/></a>
                             <a href="https://t.me/DarkNight918"><FontAwesomeIcon icon={faTelegram}/></a>
                             <a href="https://discordapp.com/users/1015255707421003776"><FontAwesomeIcon icon={faDiscord}/></a>
