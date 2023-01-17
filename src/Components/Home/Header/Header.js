@@ -29,7 +29,7 @@ const Header = () => {
                       <div className="header-font2 mt-20">
                         <Typewriter
                           options={{
-                            strings: ["Full Stack Developer"],
+                            strings: ["Front End & Blockchain Developer"],
                             autoStart: true,
                             loop: true,
                           }}
