@@ -6,6 +6,7 @@ import {
   faGithub,
   faTelegram,
   faDiscord,
+  faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import {
   faChevronRight,
@@ -35,6 +36,9 @@ const Footer = () => {
             </p>
 
             <div className="ficons">
+              <a href="https://twitter.com/Vincent97025831">
+                <FontAwesomeIcon icon={faTwitter} />
+              </a>
               <a href="https://www.linkedin.com/in/vincent-newman-7b8422261/">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
@@ -55,7 +59,7 @@ const Footer = () => {
 
             <div className="contact-icon d-flex align-items-center mb-4">
               <FontAwesomeIcon icon={faHome} />
-              <span> Hillbrook Dr, Houston, Texas, US</span>
+              <span> 11942, Hillbrook Dr, Houston, Texas, US</span>
             </div>
 
             <div className="contact-icon d-flex align-items-center mb-4">

@@ -35,6 +35,9 @@ const SubscribeBox = () => {
           <div className="sub-box-single col-md-4 pb-4">
             <h2 className="service-font1">FOLLOW ME</h2>
             <div className="sub-fllow-icon">
+              <a href="https://twitter.com/Vincent97025831">
+                <FontAwesomeIcon icon={faTwitter} />
+              </a>
               <a href="https://www.linkedin.com/in/vincent-newman-7b8422261/">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
