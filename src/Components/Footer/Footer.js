@@ -60,7 +60,7 @@ const Footer = () => {
 
             <div className="contact-icon d-flex align-items-center mb-4">
               <FontAwesomeIcon icon={faPhone} />
-              <span> +1 213 985 0522 </span>
+              <span> +1 832 699 0288 </span>
             </div>
 
             <div className="contact-icon d-flex align-items-center mb-4">

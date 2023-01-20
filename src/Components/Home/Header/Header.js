@@ -56,7 +56,7 @@ const Header = () => {
                         <div className="col-lg-8">
                           <h5>Hillbrook Dr, Houston, Texas, US</h5>
                           <h5>vincent.newman918@gmail.com</h5>
-                          <h5>+1 213 985 0522</h5>
+                          <h5>+1 832 699 0288</h5>
                           <h5>Available</h5>
                         </div>
                       </div>
