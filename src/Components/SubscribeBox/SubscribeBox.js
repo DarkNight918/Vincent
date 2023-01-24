@@ -41,6 +41,9 @@ const SubscribeBox = () => {
               <a href="https://www.linkedin.com/in/vincent-newman-7b8422261/">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
+              <a href="https://www.linkedin.com/in/vincent-newman-7b8422261/">
+                <FontAwesomeIcon icon={faLinkedinIn} />
+              </a>
               <a href="https://github.com/DarkNight918">
                 <FontAwesomeIcon icon={faGithub} />
               </a>
