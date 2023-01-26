@@ -59,7 +59,7 @@ const Footer = () => {
 
             <div className="contact-icon d-flex align-items-center mb-4">
               <FontAwesomeIcon icon={faHome} />
-              <span> 11942, Hillbrook Dr, Houston, Texas, US</span>
+              <span> Western District, Hong Kong</span>
             </div>
 
             <div className="contact-icon d-flex align-items-center mb-4">
