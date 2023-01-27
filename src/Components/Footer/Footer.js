@@ -45,7 +45,7 @@ const Footer = () => {
               <a href="https://github.com/DarkNight918">
                 <FontAwesomeIcon icon={faGithub} />
               </a>
-              <a href="https://t.me/DarkNight918">
+              <a href="https://t.me/DarkNight0918">
                 <FontAwesomeIcon icon={faTelegram} />
               </a>
               <a href="https://discordapp.com/users/1015255707421003776">
