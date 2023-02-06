@@ -59,7 +59,7 @@ const Footer = () => {
 
             <div className="contact-icon d-flex align-items-center mb-4">
               <FontAwesomeIcon icon={faHome} />
-              <span>Hong Kong</span>
+              <span>Toronto, Canada</span>
             </div>
 
             <div className="contact-icon d-flex align-items-center mb-4">
