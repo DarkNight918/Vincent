@@ -5,7 +5,7 @@ import {
   faGithub,
   faTelegram,
   faDiscord,
-  faTwitter
+  faTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -39,7 +39,7 @@ const SubscribeBox = () => {
               <a href="https://twitter.com/Vincent97025831">
                 <FontAwesomeIcon icon={faTwitter} />
               </a>
-              <a href="https://www.linkedin.com/in/vincent-newman-429483263/">
+              <a href="https://www.linkedin.com/in/vincent-newman-4b3ab4265/">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
               <a href="https://github.com/DarkNight918">
