@@ -54,7 +54,7 @@ const Header = () => {
                           <h5>Freelance</h5>
                         </div>
                         <div className="col-lg-8">
-                          <h5>Toronto, Canada</h5>
+                          <h5>Houston, Texas</h5>
                           <h5>vincent.newman918@gmail.com</h5>
                           <h5>+1 832 699 0288</h5>
                           <h5>Available</h5>

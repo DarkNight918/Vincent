@@ -39,7 +39,7 @@ const Footer = () => {
               <a href="https://twitter.com/Vincent97025831">
                 <FontAwesomeIcon icon={faTwitter} />
               </a>
-              <a href="https://www.linkedin.com/in/vincent-newman-365580266/">
+              <a href="https://www.linkedin.com/in/vincent-newman-59b28b267/">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
               <a href="https://github.com/DarkNight918">
@@ -59,7 +59,7 @@ const Footer = () => {
 
             <div className="contact-icon d-flex align-items-center mb-4">
               <FontAwesomeIcon icon={faHome} />
-              <span>Toronto, Canada</span>
+              <span>Houston, Texas</span>
             </div>
 
             <div className="contact-icon d-flex align-items-center mb-4">
